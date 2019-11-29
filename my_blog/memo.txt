@@ -1,0 +1,8 @@
+管理员
+用户名: tusonggao
+邮箱: tusonggao@163.com
+慢慢: 123
+
+
+用户名: tsg
+慢慢: django123
